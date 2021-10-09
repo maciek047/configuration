@@ -2,7 +2,7 @@ server:
   port: 7777
 postgres:
   datasource:
-    url: jdbc:postgresql://localhost:5432/accounts
+    url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
     password: postgres
     driverClassName: org.postgresql.Driver
