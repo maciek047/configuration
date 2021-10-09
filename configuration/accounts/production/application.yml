@@ -11,4 +11,4 @@ accounts:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
-  allow-get-accounts: false
+  allow-get-accounts: true
