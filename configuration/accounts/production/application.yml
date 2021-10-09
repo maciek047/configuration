@@ -1,6 +1,6 @@
 server:
   port: 7777
-accounts:
+spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
