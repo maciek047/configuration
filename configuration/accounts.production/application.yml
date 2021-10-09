@@ -1,6 +1,6 @@
 server:
   port: 7777
-accounts:
+postgres:
   datasource:
     url: jdbc:postgresql://localhost:5432/accounts
     username: postgres
